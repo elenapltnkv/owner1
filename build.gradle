@@ -16,7 +16,10 @@ dependencies {
             "org.seleniumhq.selenium:selenium-java:4.23.0",
             "io.github.bonigarcia:webdrivermanager:5.9.2",
             "org.aeonbits.owner:owner:1.0.12",
-            "org.assertj:assertj-core:3.26.3"
+            "org.assertj:assertj-core:3.26.3",
+            "io.cucumber:cucumber-java:7.18.1",
+            "com.codeborne:selenide:7.4.1"
+
     )
 }
 
